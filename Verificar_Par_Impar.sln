@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Verificar_Par_Impar", "Verificar_Par_Impar\Verificar_Par_Impar.csproj", "{71401972-4312-44CE-BC54-B53DA4CDB54D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71401972-4312-44CE-BC54-B53DA4CDB54D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71401972-4312-44CE-BC54-B53DA4CDB54D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71401972-4312-44CE-BC54-B53DA4CDB54D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71401972-4312-44CE-BC54-B53DA4CDB54D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07F86D76-533E-4FB4-920B-C728B05A1391}
+	EndGlobalSection
+EndGlobal

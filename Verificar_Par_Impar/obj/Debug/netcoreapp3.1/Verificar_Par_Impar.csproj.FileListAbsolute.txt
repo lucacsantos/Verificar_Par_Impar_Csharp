@@ -1,0 +1,13 @@
+C:\Users\Acer\Desktop\Estudos\questoes_cSharp\Verificar_Par_Impar\Verificar_Par_Impar\bin\Debug\netcoreapp3.1\Verificar_Par_Impar.exe
+C:\Users\Acer\Desktop\Estudos\questoes_cSharp\Verificar_Par_Impar\Verificar_Par_Impar\bin\Debug\netcoreapp3.1\Verificar_Par_Impar.deps.json
+C:\Users\Acer\Desktop\Estudos\questoes_cSharp\Verificar_Par_Impar\Verificar_Par_Impar\bin\Debug\netcoreapp3.1\Verificar_Par_Impar.runtimeconfig.json
+C:\Users\Acer\Desktop\Estudos\questoes_cSharp\Verificar_Par_Impar\Verificar_Par_Impar\bin\Debug\netcoreapp3.1\Verificar_Par_Impar.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\Estudos\questoes_cSharp\Verificar_Par_Impar\Verificar_Par_Impar\bin\Debug\netcoreapp3.1\Verificar_Par_Impar.dll
+C:\Users\Acer\Desktop\Estudos\questoes_cSharp\Verificar_Par_Impar\Verificar_Par_Impar\bin\Debug\netcoreapp3.1\Verificar_Par_Impar.pdb
+C:\Users\Acer\Desktop\Estudos\questoes_cSharp\Verificar_Par_Impar\Verificar_Par_Impar\obj\Debug\netcoreapp3.1\Verificar_Par_Impar.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Estudos\questoes_cSharp\Verificar_Par_Impar\Verificar_Par_Impar\obj\Debug\netcoreapp3.1\Verificar_Par_Impar.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\Estudos\questoes_cSharp\Verificar_Par_Impar\Verificar_Par_Impar\obj\Debug\netcoreapp3.1\Verificar_Par_Impar.AssemblyInfo.cs
+C:\Users\Acer\Desktop\Estudos\questoes_cSharp\Verificar_Par_Impar\Verificar_Par_Impar\obj\Debug\netcoreapp3.1\Verificar_Par_Impar.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Estudos\questoes_cSharp\Verificar_Par_Impar\Verificar_Par_Impar\obj\Debug\netcoreapp3.1\Verificar_Par_Impar.dll
+C:\Users\Acer\Desktop\Estudos\questoes_cSharp\Verificar_Par_Impar\Verificar_Par_Impar\obj\Debug\netcoreapp3.1\Verificar_Par_Impar.pdb
+C:\Users\Acer\Desktop\Estudos\questoes_cSharp\Verificar_Par_Impar\Verificar_Par_Impar\obj\Debug\netcoreapp3.1\Verificar_Par_Impar.genruntimeconfig.cache

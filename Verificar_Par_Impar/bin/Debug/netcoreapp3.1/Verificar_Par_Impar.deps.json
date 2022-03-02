@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Verificar_Par_Impar/1.0.0": {
+        "runtime": {
+          "Verificar_Par_Impar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Verificar_Par_Impar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
